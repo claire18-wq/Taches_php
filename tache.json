@@ -1,0 +1,17 @@
+[
+    {
+        "titre": "Faire les devoirs ",
+        "description": "Faire les exercice et rendre avant 23h ",
+        "statut": "Termin\u00e9"
+    },
+    {
+        "titre": "Lire les cours de python",
+        "description": "Python mon combat",
+        "statut": "En cours"
+    },
+    {
+        "titre": "Mes r\u00e9solutions ",
+        "description": "Me fixer des r\u00e9solutions pour cette ann\u00e9e 2026",
+        "statut": "En cours"
+    }
+]
